@@ -1,0 +1,46 @@
+html, body, .container{
+	height: 100%;
+}
+
+body {
+  padding-top: 50px;
+}
+
+aside{
+	height: 100%;
+	min-height: 680px;
+	background: red;
+}
+
+content {
+	
+}
+
+.venue-info{
+	background: gray;
+}
+
+.calendar-display{
+	background: blue;
+}
+
+.packages {
+	background: green;
+}
+
+.entire-venue{
+	border: 5px solid black;
+}
+
+.private-space{
+	background: orange;
+}
+
+.space-info{
+	height: 200px;
+}
+
+.total{
+	position: relative;
+	top: 100px;
+}
