@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Kids Doc Pediatrics</title>
+    <title>Kids Doc Pediatrics <?php echo $pageTitle ?></title>
 
     <link href="../dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="../dist/css/custom.css" rel="stylesheet">
@@ -19,10 +19,12 @@
     <div class="container">
       <div class="header">
         <ul class="nav nav-pills pull-right">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a href="#">Insurance</a></li>
-		  <li><a href="#">New Patients</a></li>
-          <li><a href="#">Contact</a></li>
+          <li class="active"><a href="../demo.html">Home</a></li>
+          <li><a href="insurance.php">Insurance</a></li>
+		  <li><a href="newpatients.php">New Patients</a></li>
+          <li><a href="contact.php">Contact</a></li>
         </ul>
-        <h3 class="main-logo"><a href="#">Kids Doc Pediatrics</a></h3>
+        <h3 class="main-logo"><a href="../demo.html">Kids Doc Pediatrics</a></h3>
       </div>
+
+      <!-- Still in .container -->

@@ -1,2 +1,2 @@
-<?php include 'layout/header.html'; ?>
-<?php include 'layout/footer.html'; ?>
+<?php include 'layout/header.php'; ?>
+<?php include 'layout/footer.php'; ?>
