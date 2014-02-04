@@ -3,7 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
     <meta name="description" content="kids doc pediatrics, dr. scaccabarrozzi, Luis E. Scaccabarrozzi, M.D., MPH">
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
@@ -11,7 +12,11 @@
     <title>Kids Doc Pediatrics <?php echo $pageTitle ?></title>
 
     <link href="../dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../dist/css/bootstrap.css" rel="stylesheet">
     <link href="../dist/css/custom.css" rel="stylesheet">
+    <link href="../dist/css/customs/<?php echo $css ?>.css" rel="stylesheet">
+    <?php echo $else ?>
+    <script src="../dist/js/customs/<?php echo $js ?>.js"></script>
   </head>
 
   <body>

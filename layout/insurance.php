@@ -1,5 +1,8 @@
 <?php
-	$pageTitle = "| Insurance"; 
+	$pageTitle 	= "| Insurance"; 
+	$css 		= "insurance";
+	$js 		= "none";
+	$else 		= "";
 	include 'header.php'; 
 ?>
 	<div class="row tour">
