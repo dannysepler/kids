@@ -3,6 +3,12 @@
 	$css 		= "insurance";
 	$js 		= "none";
 	$else 		= "";
+
+	    /* for CSS to highlight header which page user is on */
+	$insur		="class = \"active\"";
+	$new		="";
+	$cont		="";
+
 	include 'header.php'; 
 ?>
 	<div class="row tour">

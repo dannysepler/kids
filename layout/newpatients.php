@@ -3,6 +3,12 @@
 	$css 		    = "newpatients";
   $js         = "none";
   $else       = "";
+
+    /* for CSS to highlight header which page user is on */
+  $insur  ="";
+  $new    ="class = \"active\"";
+  $cont   ="";
+
 	include 'header.php'; 
 ?>
 	<div class="row tour">

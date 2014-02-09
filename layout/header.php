@@ -24,10 +24,10 @@
     <div class="container">
       <div class="header">
         <ul class="nav nav-pills pull-right">
-          <li class="active"><a href="../demo.html">Home</a></li>
-          <li><a href="insurance.php">Insurance</a></li>
-		  <li><a href="newpatients.php">New Patients</a></li>
-          <li><a href="contact.php">Contact</a></li>
+          <li><a href="../demo.html">Home</a></li>
+          <li <?php echo $insur ?> ><a href="insurance.php">Insurance</a></li>
+		      <li <?php echo $new ?> ><a href="newpatients.php">New Patients</a></li>
+          <li <?php echo $cont ?> ><a href="contact.php">Contact</a></li>
         </ul>
         <h3 class="main-logo"><a href="../demo.html">Kids Doc Pediatrics</a></h3>
       </div>

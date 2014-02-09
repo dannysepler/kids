@@ -3,6 +3,12 @@
 	$css		="contact";
 	$js			="contact";
 	$else 		="<script type=\"text/javascript\" src=\"https://maps.googleapis.com/maps/api/js?key=AIzaSyB4Kd67wuhdWb_M9hTK3biBB9nosn5sxng&sensor=true\"> </script>";
+
+	    /* for CSS to highlight header which page user is on */
+	$insur		="";
+	$new		="";
+	$cont		="class = \"active\"";
+
 	include 'header.php'; 
 ?>
 	<div class="row tour">
