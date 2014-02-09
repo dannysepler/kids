@@ -2,7 +2,7 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
-  background-color: #c7c267;
+  background: url("../img/old_map.png");
 }
 
 .main-logo a:link{
