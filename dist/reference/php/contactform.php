@@ -6,7 +6,7 @@
 |--------------------------------------------------------------------------
 */
 
-define("EMAIL" , "dannysepler@gmail.com");
+define("EMAIL" , "EMAIL@ADDRESS.com");
 define("SUBJECT" , "You've got mail");
 
 /*

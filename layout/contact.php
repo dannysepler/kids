@@ -24,7 +24,7 @@
   		<div id="map-canvas" style="height:500px;width:80%;margin-left:10%;"></div>
 
   		<h2>Talk to Us</h2> <!-- The contact form -->
-  		<form id="contact-form" method="post" action="smtp-form.php">
+  		<form id="contact-form" method="post" action="../dist/php/smtp-form.php">
 	  		<div>
 	  			<label>
 	        		<span>Name: (required)</span>
