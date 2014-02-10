@@ -6,7 +6,7 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <meta name="description" content="kids doc pediatrics, dr. scaccabarrozzi, Luis E. Scaccabarrozzi, M.D., MPH">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="../dist/img/stetho.ico">
+    <link rel="shortcut icon" href="../dist/img/stetho.png">
 
     <title>Kids Doc Pediatrics <?php echo $pageTitle ?></title>
 
