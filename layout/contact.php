@@ -20,24 +20,24 @@
   	</div>
 
 	<div class="row pt-background">
-		<div class="col-md-6">
+		<div class="col-md-6 pd">
 			<h2>Contact Information</h2> <!-- The google map -->
-			<address><h4>Kids Doc Pediatrics</h4>6440 W Newberry Rd #105, <br> Gainesville, FL 32605</address>
+			<address><h4><span class="glyphicon glyphicon-envelope"></span> Kids Doc Pediatrics</h4>6440 W Newberry Rd #105, <br> Gainesville, FL 32605</address>
 			<address>Phone: <a href="tel:3523324400">(352) 332-4400</a><br>Email: <a href="mailto:kidsdocpediatrics@yahoo.com">kidsdocpediatrics@yahoo.com</a></address> 
-			<h4>Hours of Operation</h4>
+			<h4><span class="glyphicon glyphicon-time"></span> Hours of Operation</h4>
 			<time itemprop="openingHours" datetime="Mo,Fr 8:00-17:00">Monday - Friday 8 AM-5 PM <br></time>
 			<time>Lunch hour is observed from 12 PM-1 PM<br></time>
 			<time itemprop="openingHours" datetime="Sa 8:00-12:00">Saturday 8 AM-12 PM As needed for sick visits</time>
 		</div>
 		<div class="col-md-6">
-			<h2>Find Us</h2> <!-- The google map -->
+			<h2><span class="glyphicon glyphicon-map-marker"></span> Find Us</h2> <!-- The google map -->
 			<div id="map-canvas"></div>
 		</div>
 	</div>
 	<div class="row pt-background">
 		<div class="col-md-6 col-md-offset-3">
 
-			<h2>Talk to Us</h2> <!-- The contact form -->
+			<h2><span class="glyphicon glyphicon-hand-right"></span> Talk to Us</h2> <!-- The contact form -->
 			<form id="contact-form" method="post" action="../dist/php/smtp-form.php">
 				<div>
 					<label>

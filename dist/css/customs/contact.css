@@ -7,6 +7,10 @@ Author: http://www.toddmotto.com
 	background: none repeat scroll 0 0 #f2f2f2;
 }
 
+.pd{
+	padding-left: 50px;
+}
+
 * {
 	margin:0;
 	padding:0;
