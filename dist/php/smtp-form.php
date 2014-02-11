@@ -20,9 +20,9 @@ $mail->AddAddress( $_POST['email'] );
     echo "Mailer Error: " . $mail->ErrorInfo;
 }
 else{
-	
-    echo "Message has been sent";	
-	header("Location: http://162.243.207.74/kids/demo.html");
+ 
+	header("refresh:1; url= http://162.243.207.74/kids/demo.html");
+	echo '<script>alert("Message has been sent");</script>';
 }
 
 ?>
