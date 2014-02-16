@@ -18,13 +18,13 @@ kids -- http://162.243.207.74/kids/demo.html
 
 ## Questions for doctors
 
-IMMUNIZATION QUESTIONS
+###### IMMUNIZATION QUESTIONS
 1. Is "inactivated poliovirus" the same thing as the polio vaccine? Or is it a variant of it? Which does Kids Doc offer?
 1. Does Kids Doc offer influenza as (1) live, intranasal or as (2)inactivated?
 1. Is the Kids Doc HPV vaccine (1) Cervarix or (2) Gardasil?
 
-DESIGN QUESTIONS
-1. What do you like (appearance-wise) about the other websites?
+###### DESIGN QUESTIONS
+1. What do you like (appearance-wise) about the g websites?
 1. What could be improved (appearance-wise) about our website?
 
 ### Other info
