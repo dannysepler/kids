@@ -1,6 +1,6 @@
 <?php 
 	$pageTitle 	= '| New Patients';
-	$css 		    = "newpatients";
+	$css 		= "staff";
   $js         = "none";
   $else       = "";
 
@@ -18,7 +18,7 @@
 		</div>
   	</div>
 
-  	<div class="row pt-background">
+  	<div class="row team">
   		<div class="col-lg-4" id="dr_s">
 		  <img class="img-circle" img src="../dist/img/dr.png" alt="140x140">
 		  <h2>Dr. Scaccabarrozzi<br><small>Paediatrician</small></h2>
