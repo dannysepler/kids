@@ -8,6 +8,7 @@
 	$immu		="class = \"active\"";
 	$new		="";
 	$cont		="";
+	$staf		="";
 
 	include 'header.php'; 
 ?>

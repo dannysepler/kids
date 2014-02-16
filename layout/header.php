@@ -30,6 +30,7 @@
           <li <?php echo $immu ?> ><a href="immunization-home.php">Immunizations</a></li>
 		      <li <?php echo $new ?> ><a href="newpatients.php">New Patients</a></li>
           <li <?php echo $cont ?> ><a href="contact.php">Contact</a></li>
+          <li <?php echo $staf ?> ><a href="staff.php">Staff</a></li>
         </ul>
         <h3 class="main-logo"><a href="../demo.html">Kids Doc Pediatrics</a></h3>
       </div>
