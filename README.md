@@ -11,10 +11,16 @@ kids -- http://162.243.207.74/kids/demo.html
 
 ## To do:
 
-1. Learn More page
+1. Do parent resource page
+1. Include Mission statement
+1. Staff page
 1. Format the front-page video so that it's not weird when the window gets bigger and smaller.
-1. Look into the main page text for each page (rainbow options? color that's more visible/less intense than red.)
-1. Incorporate texture background.
+
+## Questions for doctors
+
+1. Is "inactivated poliovirus" the offered polio vaccine
+1. Do they offer influenza as the (1) live, intranasal one or the (2)inactivated one
+1. Is the HPV vaccine (1) Cervarix or (2) Gardasil?
 
 ### Other info
 
