@@ -11,10 +11,8 @@ kids -- http://162.243.207.74/kids/demo.html
 
 ## To do:
 
-1. Do parent resource page
-1. Include Mission statement
-1. Staff page
 1. Format the front-page video so that it's not weird when the window gets bigger and smaller.
+1. (Optional) Figure out how to get the iFrame to have 100% width on immunization page.
 
 ## Questions for doctors
 
