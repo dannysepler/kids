@@ -25,80 +25,85 @@
 	<h3> Or.... </h3>
 	<h2>Scroll down for VIS forms</h2>
 
-	<p>Birth to 15 months</p>
+	<p>The forms</p>
 		<ul>
 			<li> <!-- 1 -->
-				<a href="">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.html">
 					Hepatitis B
 				</a>
 			</li>
 			<li> <!-- 2 -->
-				<a href="">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/rotavirus.pdf">
 					Rotavirus
 				</a>
 			</li>
 			<li> <!-- 3 -->
-				<a href="">
+				<a href="http://www.immunize.org/vis/dtap.pdf">
 					Diphtheria, tetanus, and acellular pertussis
 				</a>
 			</li>
 			<li> <!-- 4 -->
-				<a href="">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hib.pdf">
 					Haemophilus influenzae type b
 				</a>
 			</li>
 			<li> <!-- 5 -->
-				<a href="">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv13.pdf">
 					Pneumococcal conjugate
 				</a>
 			</li>
 			<li> <!-- 6 -->
-				<a href="">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/ppv.pdf">
 					Pneumococcal polysaccharide
 				</a>
 			</li>
 			<li> <!-- 7 -->
-				<a href="">
-					Inactivated poliovirus
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/ipv.pdf">
+					Polio
 				</a>
 			</li>
 			<li> <!-- 8 -->
-				<a href="">
-					Influenza
+				Influenza - 
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flulive.pdf">
+					Live, Intranasal
 				</a>
+				, or
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flu.pdf">
+					Inactivated
+				</a> 
 			</li>
 			<li> <!-- 9 -->
-				<a href="">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmr.pdf">
 					Measles, mumps, rubella
 				</a>
 			</li>
 			<li> <!-- 10 -->
-				<a href="">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/varicella.pdf">
 					Varicella
 				</a>
 			</li>
 			<li> <!-- 11 -->
-				<a href="">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-a.pdf">
 					Hepatitis A
 				</a>
 			</li>
 			<li> <!-- 12 -->
-				<a href="">
-					Human papillomavirus
+				Human papillomavirus
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-cervarix.pdf">
+					Cervarix
+				</a>
+				or
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-gardasil.pdf">
+					Gardasil
 				</a>
 			</li>
 			<li> <!-- 13 -->
-				<a href="">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mening.pdf">
 					Meningococcal
 				</a>
 			</li>
 
 		</ul>
-
-	<p>18 months to 18 years</p>
-		<ul>
-		</ul>
-
 </div>
 
 <?php include 'footer.php'; ?>
