@@ -1,7 +1,7 @@
 <?php
-	$pageTitle 	= "| Inmunization Schedule"; 
+	$pageTitle 	= "| Immunization Schedule"; 
 	$css 		= "custom";
-	$js 		= "none";
+	$js 		= "iframe_resize";
 	$else 		= "";
 
 	    /* for CSS to highlight header which page user is on */
@@ -21,7 +21,7 @@
 	
 <div class="row team">
 	<h1>Here's the recommended vaccination schedule from the CDC</h1>
-	<iframe src="http://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent-shell.html"   width="100%" height="800px" frameborder="0" scrolling="auto" id="Iframe" title="Child Immunization Schedule">Child Immunization Schedule</iframe>
+	<iframe src="http://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent-shell.html" width="100%" height="800px" frameborder="0" scrolling="auto" id="Iframe" title="Child Immunization Schedule" onload="autoResize();">Child Immunization Schedule</iframe>
 </div>
 
 <?php include 'footer.php'; ?>
