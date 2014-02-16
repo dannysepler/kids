@@ -27,7 +27,7 @@
       <div class="header">
         <ul class="nav nav-pills pull-right">
           <li><a href="../demo.html">Home</a></li>
-          <li <?php echo $insur ?> ><a href="insurance.php">Insurance</a></li>
+          <li <?php echo $immu ?> ><a href="immunization-home.php">Immunizations</a></li>
 		      <li <?php echo $new ?> ><a href="newpatients.php">New Patients</a></li>
           <li <?php echo $cont ?> ><a href="contact.php">Contact</a></li>
         </ul>

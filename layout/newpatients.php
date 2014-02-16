@@ -5,7 +5,7 @@
   $else       = "";
 
     /* for CSS to highlight header which page user is on */
-  $insur  ="";
+  $immu  ="";
   $new    ="class = \"active\"";
   $cont   ="";
 
