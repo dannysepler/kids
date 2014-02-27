@@ -16,9 +16,26 @@ body {
 }
 .tour h2{
 	color: #d22715;
-    font-size: 5em;
-    text-shadow: 3px 3px 2px rgba(17, 23, 0, 1);
+  font-size: 6em;
+  text-shadow: 5px 5px 3px rgba(17, 23, 0, 1);
 }
+
+/* LEFT AND RIGHT */
+.left { 
+  float:left; 
+  width: 70%;
+}
+
+.right {
+  float: right;
+  width: 30%;
+  background: white;
+  height: 100%;
+  position: absolute;
+  margin-left: 650px;
+}
+
+/* INNER */
 
 .mission {
   background: #00CC00;
@@ -57,18 +74,24 @@ body {
   margin-right: auto;
 }
 
+.parent img {
+  width: 70%;
+}
+
 /* Custom page footer */
 footer {
   padding: 19px 15px;
   color: white;
   border-top: 1px solid #e5e5e5;
-  background: #304266;
+  background: #9900CC;
   margin-left: -15px;
   margin-right: -15px;
+  float:left;
+  width: 100%;
 }
 
 footer a:link{
-	color: white;
+	color: #96E000;
 }
 
 
@@ -104,6 +127,10 @@ footer a:link{
     padding-right: 0;
   }
   
+  .right {
+    margin-left: 69%;
+  }
+
   object{
 	float:right;
 	width: 775px;
