@@ -6,7 +6,10 @@ body {
 }
 
 .main-logo a:link{
-	text-decoration:none;
+  margin-left: 280px;
+  position: absolute;
+  margin-top: -80px;
+  text-decoration: none;
 }
 
 .tour{
@@ -20,26 +23,32 @@ body {
   text-shadow: 5px 5px 3px rgba(17, 23, 0, 1);
 }
 
-/* LEFT AND RIGHT */
-.left { 
-  float:left; 
-  width: 70%;
+.logo {
+  height: 140px;
+  width: 200px;
+  margin-left: 250px;
+  margin-top: 40px;
 }
 
-.right {
-  float: right;
-  width: 30%;
-  background: white;
-  height: 100%;
-  position: absolute;
-  margin-left: 650px;
+/* LEFT AND RIGHT */
+
+.col-md-9 { padding-right: 0px; }
+.col-md-12 { padding-right: 0px; }
+
+.sidebar {
+  background: #FFE40C;
+  height: 1511px;
+  padding: none;
 }
 
 /* INNER */
 
+.home {width: 860px;}
+
 .mission {
   background: #00CC00;
   color: black;
+  margin-left: -15px;
 }
 
 .mission h2 {
@@ -84,8 +93,6 @@ footer {
   color: white;
   border-top: 1px solid #e5e5e5;
   background: #9900CC;
-  margin-left: -15px;
-  margin-right: -15px;
   float:left;
   width: 100%;
 }
@@ -94,17 +101,27 @@ footer a:link{
 	color: #96E000;
 }
 
+.btn {
+  color: #96E000;
+}
+
+.btn-link{
+  color: #96E000;
+}
+
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header {
   padding-left: 15px;
   padding-right: 15px;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 25px;
+  background: rgba(255, 255, 255, 0.7);
+    /* solid, transparent background */
+  margin-bottom: 20px;
+  border-radius: 15px;
 }
 
-/* Custom page header */
-.header {
-  border-bottom: 1px solid #e5e5e5;
-}
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
   margin-top: 0;
@@ -113,6 +130,11 @@ footer a:link{
   padding-bottom: 19px;
 }
 
+.header ul li a {
+  margin-top: 23px;
+}
+
+.nav li {padding: 5px;}
 
 /* Customize container */
 .container-narrow > hr {
@@ -127,9 +149,7 @@ footer a:link{
     padding-right: 0;
   }
   
-  .right {
-    margin-left: 69%;
-  }
+  /*  .nav { margin-left: 10%; } */
 
   object{
 	float:right;
