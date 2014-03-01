@@ -68,6 +68,11 @@ body {
   padding-bottom: 20px;
 }
 
+.team img {
+  height: 400px;
+  width: 600px;
+  border-radius: 10px;
+}
 
 .vacs{
 	background: #78a6fc;
