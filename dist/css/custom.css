@@ -37,8 +37,8 @@ body {
 
 .sidebar {
   background: #FFE40C;
-  height: 1511px;
   padding: none;
+  height: 100%;
 }
 
 /* INNER */
