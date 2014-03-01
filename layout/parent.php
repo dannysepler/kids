@@ -21,7 +21,14 @@
   	</div>
 
   	<div class="row team">
-			 <h1 style="text-align:center;">This is where parent resources go (if we had any!)</h1>
+		<h1 style="">We recommend:</h1>
+		<p style="">
+			<ul>
+				<li><a href="http://www.aap.org/">American Academy of Pediatrics</a></li>
+				<li><a href="http://www.cdc.gov/">Center for Disease Control</a></li>
+				<li><a href="/immunization-home.php">Our Immunization Schedule</a></li>				
+			</ul>
+		</p>
   	</div>
 
 <?php include 'footer.php'; ?>
