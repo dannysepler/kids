@@ -6,14 +6,6 @@ body {
   background-repeat: repeat-x;
 }
 
-
-.main-logo a:link{
-  margin-left: 280px;
-  position: absolute;
-  margin-top: -80px;
-  text-decoration: none;
-}
-
 .tour{
 	background: url('../img/safari2.png');
 	background-size: 100%;
@@ -23,13 +15,6 @@ body {
 	color: #d22715;
   font-size: 6em;
   text-shadow: 5px 5px 3px rgba(17, 23, 0, 1);
-}
-
-.logo {
-  height: 140px;
-  width: 200px;
-  margin-left: 250px;
-  margin-top: 40px;
 }
 
 /* LEFT AND RIGHT */
