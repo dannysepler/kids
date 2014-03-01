@@ -1,9 +1,11 @@
 /* Space out content a bit */
 body {
   padding-top: 20px;
-  padding-bottom: 20px;
-  background: url("../img/old_map.png");
+  background: url("../img/body-background.png"), url("../img/footer-background.png");
+  background-position: 0px 648px, bottom left;
+  background-repeat: repeat-x;
 }
+
 
 .main-logo a:link{
   margin-left: 280px;
