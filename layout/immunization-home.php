@@ -29,7 +29,7 @@
 	<p>The forms</p>
 		<ul>
 			<li> <!-- 1 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.html">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.pdf">
 					Hepatitis B
 				</a>
 			</li>
@@ -44,62 +44,58 @@
 				</a>
 			</li>
 			<li> <!-- 4 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hib.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hib.pdf" target="_blank">
 					Haemophilus influenzae type b
 				</a>
 			</li>
 			<li> <!-- 5 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv13.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv13.pdf" target="_blank">
 					Pneumococcal conjugate
 				</a>
 			</li>
 			<li> <!-- 6 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/ppv.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/ppv.pdf" target="_blank">
 					Pneumococcal polysaccharide
 				</a>
 			</li>
 			<li> <!-- 7 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/ipv.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/ipv.pdf" target="_blank">
 					Polio
 				</a>
 			</li>
 			<li> <!-- 8 -->
 				Influenza - 
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flulive.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flulive.pdf" target="_blank">
 					Live, Intranasal
 				</a>
 				, or
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flu.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flu.pdf" target="_blank">
 					Inactivated
 				</a> 
 			</li>
 			<li> <!-- 9 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmr.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmr.pdf" target="_blank">
 					Measles, mumps, rubella
 				</a>
 			</li>
 			<li> <!-- 10 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/varicella.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/varicella.pdf" target="_blank">
 					Varicella
 				</a>
 			</li>
 			<li> <!-- 11 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-a.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-a.pdf" target="_blank">
 					Hepatitis A
 				</a>
 			</li>
 			<li> <!-- 12 -->
 				Human papillomavirus
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-cervarix.pdf">
-					Cervarix
-				</a>
-				or
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-gardasil.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-gardasil.pdf" target="_blank">
 					Gardasil
 				</a>
 			</li>
 			<li> <!-- 13 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mening.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mening.pdf" target="_blank">
 					Meningococcal
 				</a>
 			</li>
