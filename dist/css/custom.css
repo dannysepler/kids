@@ -109,6 +109,10 @@ footer a:link{
   color: #96E000;
 }
 
+.btn-link a:hover{
+  color: #96E000;  
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header {
   padding-left: 15px;
