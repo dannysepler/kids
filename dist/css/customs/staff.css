@@ -17,10 +17,11 @@
 }
 
 .banner {
-	background: url('../img/page-specific/staff.png');
+	background: url('../../img/page-specific/staff.png');
 	background-size: 100%;
 	padding: 10px 0;
-	height: 800px;
+	height: 325px;
+	border-radius: 10px;
 }
 
 img {
@@ -28,6 +29,10 @@ img {
     margin-right: auto;
 }
 
-p {
-	text-align: left;
-}
+p { text-align: left; }
+
+/* making images size appropriate */
+#dr_img { max-width:  160px; }
+#n2_img { max-width:  140px; }
+#n3_img { max-height: 130px; }
+#n4_img { max-height: 140px; }
