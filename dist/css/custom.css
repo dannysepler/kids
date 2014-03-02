@@ -6,11 +6,12 @@ body {
   background-repeat: repeat-x;
 }
 
-.tour{
+.tour {
 	background: url('../img/safari2.png');
 	background-size: 100%;
 	padding: 10px 0;
 }
+
 .tour h2{
 	color: #d22715;
   font-size: 6em;
@@ -30,7 +31,7 @@ body {
 
 /* INNER */
 
-.home {width: 860px;}
+.home { width: 100%;}
 
 .mission {
   background: #00CC00;
@@ -38,13 +39,11 @@ body {
   margin-left: -15px;
 }
 
-.mission h2 {
-  text-align: center;
-}
-
 .mission h3 {
-  margin-left:200px;
-  margin-right:200px;
+  margin-left:10%;
+  margin-right:10%;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .team{
@@ -118,8 +117,6 @@ footer a:link{
 
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
-  margin-top: 0;
-  margin-bottom: 0;
   line-height: 40px;
   padding-bottom: 19px;
 }
