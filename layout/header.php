@@ -24,6 +24,8 @@
   <body>
 
     <div class="container">
+      <!--
+
       <div class="header">
         <ul class="nav nav-pills pull-right">
           <li><a href="../demo.html">Home</a></li>
@@ -33,6 +35,21 @@
           <li <?php echo $staf ?> ><a href="staff.php">Staff</a></li>
         </ul>
         <h3 class="main-logo"><a href="../demo.html">Kids Doc Pediatrics</a></h3>
+      </div>
+
+    -->
+
+    <div class="header masthead">
+        <a href="../demo.html"><img src="../dist/img/page-specific/kids-logo.png" /></a>
+
+        <ul class="nav nav-justified">          
+          <li class="active"><a href="../demo.html">Home</a></li>
+          <li><a href="immunization-home.php">Immunizations</a></li>
+      <li><a href="newpatients.php">New Patients</a></li>
+          <li><a href="parent.php">For Parents</a></li>
+          <li><a href="staff.php">Staff</a></li>
+          <li><a href="contact.php">Contact</a></li>
+        </ul>
       </div>
 
       <!-- Still in .container -->
