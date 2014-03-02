@@ -21,7 +21,7 @@
 <div class="row team">
 	<h1>Welcome to your one-stop shop for immunization info</h1>
 	<h2>
-		Take a look at the CDC-recommended <em><a href="http://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent-shell.html">immunization schedule</a></em> for your child
+		Take a look at the CDC-recommended <em><a href="http://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent-shell.html" target="_blank">immunization schedule</a></em> for your child
 	</h2>
 	<h3> Or.... </h3>
 	<h2>Scroll down for VIS forms</h2>
@@ -29,17 +29,17 @@
 	<p>The forms</p>
 		<ul>
 			<li> <!-- 1 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.pdf" target="_blank">
 					Hepatitis B
 				</a>
 			</li>
 			<li> <!-- 2 -->
-				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/rotavirus.pdf">
+				<a href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/rotavirus.pdf" target="_blank">
 					Rotavirus
 				</a>
 			</li>
 			<li> <!-- 3 -->
-				<a href="http://www.immunize.org/vis/dtap.pdf">
+				<a href="http://www.immunize.org/vis/dtap.pdf" target="_blank">
 					Diphtheria, tetanus, and acellular pertussis
 				</a>
 			</li>
