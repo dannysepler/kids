@@ -2,8 +2,28 @@
 	margin-top:20px;
 }
 
+.col-lg-4 img {
+	display: inline-block;
+	max-height: 150px;
+	max-width: 150px;
+}
+
+.col-lg-4 h2 {
+	display: inline-block;
+}
+
+.col-lg-4 {
+	text-align: justify;
+}
+
+.banner {
+	background: url('../img/page-specific/staff.png');
+	background-size: 100%;
+	padding: 10px 0;
+	height: 800px;
+}
+
 img {
-	display: block;
     margin-left: auto;
     margin-right: auto;
 }
