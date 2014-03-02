@@ -12,10 +12,7 @@
 
 	include 'header.php'; 
 ?>
-<div class="row tour">
-	<div class="col-md-3">
-		<h2>Immunization Home</h2>
-	</div>
+<div class="row banner">
 </div>
 	
 <div class="row team">

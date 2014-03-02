@@ -12,12 +12,7 @@
 
 	include 'header.php'; 
 ?>
-	<div class="row tour">
-		<div class="col-md-3">
-			<h2>Contact Us</h2>
-		</div>
-		<div class="col-md-9">
-		</div>
+	<div class="row banner">
   	</div>
 
 	<div class="row pt-background">

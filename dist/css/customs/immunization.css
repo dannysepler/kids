@@ -1,1 +1,18 @@
+.team { 
+	width: 750px; 
+	margin-left:  auto;
+	margin-right: auto;
+}
+
+.banner {
+	background: url('../../img/page-specific/immunizations.png');
+	background-size: 100%;
+	padding: 10px 0;
+	height:  250px;
+	width:   750px;
+	border-radius: 10px;
+	margin-left:   auto;
+	margin-right:  auto;
+}
+
 ul { text-align: left; }

@@ -3,13 +3,26 @@ Title: Creating an HTML5 enhanced responsive-ready contact form, with custom jav
 Tutorial on: http://www.onextrapixel.com
 Author: http://www.toddmotto.com
 */
-.pt-background {
+
+.pt-background { 
+	width: 750px; 
+	margin-left:  auto;
+	margin-right: auto;
 	background: none repeat scroll 0 0 #f2f2f2;
 }
 
-.pd{
-	padding-left: 50px;
+.banner {
+	background: url('../../img/page-specific/contact.png');
+	background-size: 100%;
+	padding: 10px 0;
+	height:  250px;
+	width:   750px;
+	border-radius: 10px;
+	margin-left:   auto;
+	margin-right:  auto;
 }
+
+.pd{ padding-left: 50px; }
 
 * {
 	margin:0;
