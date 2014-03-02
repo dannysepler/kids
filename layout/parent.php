@@ -8,6 +8,7 @@
   $immu		="";
   $new 		="";
   $cont 	="";
+  $pare 	="class = \"active\"";
   $staf		="";
 
 	include 'header.php'; 

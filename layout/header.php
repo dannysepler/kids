@@ -18,38 +18,41 @@
     <?php echo $else ?> 
       <!-- for any extra necessary javascript/css files... -->
 
+    <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
+    <script src="../dist/js/bootstrap.min.js"></script>
+    <script>
+      $('.collapse').collapse()
+    </script>
     <script src="../dist/js/customs/<?php echo $js ?>.js"></script>
+  
   </head>
 
   <body>
 
     <div class="container">
-      <!--
-
-      <div class="header">
-        <ul class="nav nav-pills pull-right">
-          <li><a href="../demo.html">Home</a></li>
-          <li <?php echo $immu ?> ><a href="immunization-home.php">Immunizations</a></li>
-		      <li <?php echo $new ?> ><a href="newpatients.php">New Patients</a></li>
-          <li <?php echo $cont ?> ><a href="contact.php">Contact</a></li>
-          <li <?php echo $staf ?> ><a href="staff.php">Staff</a></li>
-        </ul>
-        <h3 class="main-logo"><a href="../demo.html">Kids Doc Pediatrics</a></h3>
-      </div>
-
-    -->
-
-    <div class="header masthead">
-        <a href="../demo.html"><img src="../dist/img/page-specific/kids-logo.png" /></a>
-
-        <ul class="nav nav-justified">          
-          <li class="active"><a href="../demo.html">Home</a></li>
-          <li><a href="immunization-home.php">Immunizations</a></li>
-      <li><a href="newpatients.php">New Patients</a></li>
-          <li><a href="parent.php">For Parents</a></li>
-          <li><a href="staff.php">Staff</a></li>
-          <li><a href="contact.php">Contact</a></li>
-        </ul>
-      </div>
-
+      <div><a href="../demo.html"><img src="../dist/img/page-specific/kids-logo.png" /></a></div>
+      <nav class="navbar navbar-default" role="navigation">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!--<a class="navbar-brand" href="demo.html">Kids Doc Pediatrics</a>-->
+        </div>
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+              <li><a href="../demo.html">Home</a></li>
+              <li <?php echo $immu ?> ><a href="immunization-home.php">Immunizations</a></li>
+              <li <?php echo $new ?> ><a href="newpatients.php">New Patients</a></li>
+              <li <?php echo $pare ?> ><a href="parent.php">For Parents</a></li>
+              <li <?php echo $staf ?> ><a href="staff.php">Staff</a></li>
+              <li <?php echo $cont ?> ><a href="contact.php">Contact</a></li>
+            </ul>
+          </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+      </nav>
       <!-- Still in .container -->
