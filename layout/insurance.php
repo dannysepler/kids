@@ -6,6 +6,7 @@
 
 	    /* for CSS to highlight header which page user is on */
 	$immu		="class = \"active\"";
+	$pare 		="";
 	$new		="";
 	$cont		="";
 	$staf		="";
