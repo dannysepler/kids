@@ -1,7 +1,6 @@
-#dr_s {
-	margin-top:20px;
+.team {
+	width: 750px;
 }
-
 .col-lg-4 img {
 	display: inline-block;
 	max-height: 150px;
@@ -21,17 +20,38 @@
 	background-size: 100%;
 	padding: 10px 0;
 	height: 250px;
+	width: 750px;
 	border-radius: 10px;
 }
+
+p { text-align: justify; }
+
+/* making images size appropriate */
 
 img {
     margin-left: auto;
     margin-right: auto;
+    margin-top: 20px;
 }
 
-p { text-align: left; }
+.float_left p {
+	margin-left: 165px;
+}
 
-/* making images size appropriate */
+.float_right img {
+	float: right;
+}
+
+.float_right p {
+	padding: 0 180px 0 0;
+}
+
+.p1left {
+	padding-top: 10px;
+	margin-top: -70px;
+}
+
+#dr_s 	{ margin-top: 20px; }
 #dr_img { max-width:  160px; }
 #n2_img { max-width:  140px; }
 #n3_img { max-height: 130px; }
