@@ -1,8 +1,8 @@
       <footer class="row">
 	  <div class="col-md-12 text-center">
-		  <a href="insurance.php"><button type="button" class="btn btn-link">Insurance</button></a>|
-		  <a href="newpatients.php"><button type="button" class="btn btn-link">New Patients</button></a>|
-		  <a href="contact.php"><button type="button" class="btn btn-link">Contact</button></a>
+		  <a href="insurance.php">Insurance </a>|
+		  <a href="newpatients.php">New Patients </a>|
+		  <a href="contact.php">Contact</a>
 	  </div>
 		<div class="col-md-6">
 			<address><h4>Kids Doc Pediatrics</h4>6440 W Newberry Rd #105, <br> Gainesville, FL 32605</address>
