@@ -6,6 +6,8 @@
 	border-radius: 0 0 10px 0px;
 }
 
+.team img { border-radius: 50%; }
+
 .banner {
 	background: url('../../img/page-specific/staff.png');
 	background-size: 100%;
@@ -32,6 +34,7 @@ small {
 .col-lg-4 {
 	text-align: justify;
 	min-width: 920px;
+	margin-bottom: 30px;
 }
 
 .col-lg-4 img {
@@ -54,9 +57,10 @@ img {
     /*margin-top: 20px;*/
 }
 
-.float_left p {
-	margin-left: 165px;
-}
+.float_left p { margin-left: 200px; }
+
+#dr_s h2{ margin-left: 38px;}
+#n1 h2, #n3 h2 	{ margin-left: 47px;}
 
 .float_right img {
 	float: right;
