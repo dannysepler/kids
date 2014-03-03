@@ -13,7 +13,6 @@
 
 .col-lg-4 {
 	max-width: 200px;
-	margin-left: 2%;
 }
 
 .col-lg-4 h2 { font-family: "Luckiest Guy"; }
@@ -118,4 +117,12 @@
     display: inline-block;
     text-align: center;
   }
+}
+
+@media screen and (max-width: 1199px) {
+	.not-last-col { margin-right: 4%; }
+}
+
+@media screen and (min-width: 1200px) {
+	.not-last-col { margin-right: 12%; }
 }
