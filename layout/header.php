@@ -30,33 +30,36 @@
 
   <body>
 
-    <div class="container">
+   <div class="container">
       <div>
         <a href="../demo.html"><img src="../dist/img/page-specific/kids-logo.png" /></a>
         <p id="phone">(352) 332-4400</p>
       </div>
-      <nav class="navbar navbar-default navbar-static-top" role="navigation">
-      <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
+    </div>
+    <!-- Static navbar -->
+    <div class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <!--<a class="navbar-brand" href="demo.html">Kids Doc Pediatrics</a>-->
+          
         </div>
-          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
               <li><a href="../demo.html">Home</a></li>
               <li <?php echo $immu ?> ><a href="immunization-home.php">Immunizations</a></li>
               <li <?php echo $new ?> ><a href="newpatients.php">New Patients</a></li>
               <li <?php echo $pare ?> ><a href="parent.php">For Parents</a></li>
               <li <?php echo $staf ?> ><a href="staff.php">Staff</a></li>
               <li <?php echo $cont ?> ><a href="contact.php">Contact</a></li>
-            </ul>
-          </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
-      </nav>
-      <!-- Still in .container -->
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+  
+  
+  <div class="container">
