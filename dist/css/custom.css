@@ -9,10 +9,15 @@ body {
 /* header */
 #phone {
   display: inline-block;
-  height: 40px;
+  font-size: 40px;
+  font-family: 'Luckiest Guy', cursive;
+  color: #ffb347;
+  text-shadow: -1px 0 #e88435, 0 1px #e88435, 1px 0 #e88435, 0 -1px #e88435;
+  -webkit-text-stroke: 1px #7f5923;
 }
 
-.navbar {margin-bottom: 0;}
+.container-fluid {background-color:white;}
+.navbar { margin-bottom: 0; }
 
 .navbar-default{
   background: transparent;
