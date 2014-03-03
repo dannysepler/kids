@@ -17,6 +17,7 @@ object {}
 
 .sidebar a {
   font-family: "Luckiest Guy";
+  font-size: 30px;
   color: #ffb347;
   text-shadow: -1px 0 #e88435, 0 1px #e88435, 1px 0 #e88435, 0 -1px #e88435;
   -webkit-text-stroke: 1px #7f5923;
@@ -42,7 +43,6 @@ object {}
 
 @media screen and (max-width: 768px) {
 	.container-fluid {background-color: white; }
-	#collapse_photo {display: block;}
 	.tour { 
 		height: 500px; 
 		width: 100%;
@@ -53,7 +53,7 @@ object {}
 	.tour { background: url('../../img/safari2.png'); }
 }
 
-@media screen and (max-width: 893px) {
+@media screen and (max-width: 992px) {
 	.sidebar { /* disappear when too small */
   		display: none;
   	}
