@@ -17,6 +17,11 @@
 	margin-right:  auto;
 }
 
+.col-lg-4 {
+	text-align: justify;
+	min-width: 920px;
+}
+
 .col-lg-4 img {
 	display: inline-block;
 	max-height: 150px;
@@ -25,10 +30,6 @@
 
 .col-lg-4 h2 {
 	display: inline-block;
-}
-
-.col-lg-4 {
-	text-align: justify;
 }
 
 p { text-align: justify; }
