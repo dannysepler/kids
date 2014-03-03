@@ -2,9 +2,21 @@
 
 /* banner */
 
-object {}
-
 /* main body */
+
+.img-circle {
+	height: 140px;
+	width: 140px;
+}
+
+.col-md-9 { background-color: white; }
+
+.col-lg-4 {
+	display: inline-block;
+	max-width: 200px;
+	margin-right: 20px;
+}
+
 .sidebar {
   background: #FFE40C;
   padding: none;
