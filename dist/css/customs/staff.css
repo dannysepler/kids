@@ -39,14 +39,15 @@ small {
 
 .col-lg-4 img {
 	display: inline-block;
-	max-height: 150px;
-	max-width: 150px;
+	max-height: 200px;
+	max-width: 200px;
 }
 
 .col-lg-4 h2 {
 	display: inline-block;
 }
 
+.col-lg-4 p { max-width: 850px; }
 p { text-align: justify; }
 
 /* making images size appropriate */
@@ -61,13 +62,15 @@ img {
 
 .tab_dr_s { margin-top: 30px; }
 
+table { margin-bottom: 50px;}
+
 .tab_dr_s tbody tr td h2 {
 	text-align:left;
 	margin-bottom: 70px;
 }
 
 .tab_dr_s tbody tr td p {
-	max-width: 700px;
+	max-width: 600px;
 }
 
 .tab_n_1 tbody tr td h2 {
@@ -76,6 +79,15 @@ img {
 }
 
 .tab_n_1 tbody tr td p {
+	max-width: 700px;
+}
+
+.tab_n_3 tbody tr td h2 {
+	text-align:left;
+	margin-bottom: 70px;
+}
+
+.tab_n_3 tbody tr td p {
 	max-width: 700px;
 }
 
@@ -96,11 +108,19 @@ img {
 }
 
 #dr_s 	{ margin-top: 20px; }
-#dr_img, #n1_img { 
+
+#dr_img, #n1_img, #n3_img { 
 	margin-left:20px;
-	height: 160px;
-	max-width:  160px; 
+	height: 200px;
+	max-width:  200px; 
 }
-#n2_img { max-width:  140px; }
-#n3_img { max-height: 130px; }
-#n4_img { max-height: 140px; }
+
+.img-circle { 
+	height:200px; width:200px;
+}
+
+/*
+#n2_img { max-width:  200px; }
+#n3_img { max-height: 200px; }
+#n4_img { max-height: 200px; }
+*/
