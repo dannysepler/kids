@@ -5,7 +5,7 @@ Author: http://www.toddmotto.com
 */
 
 .pt-background { 
-	width: 750px; 
+	width: 940px; 
 	margin-left:  auto;
 	margin-right: auto;
 	background: none repeat scroll 0 0 #f2f2f2;
@@ -15,8 +15,8 @@ Author: http://www.toddmotto.com
 	background: url('../../img/page-specific/contact.png');
 	background-size: 100%;
 	padding: 10px 0;
-	height:  250px;
-	width:   750px;
+	height: 310px;
+	width: 940px;
 	border-radius: 10px;
 	margin-left:   auto;
 	margin-right:  auto;

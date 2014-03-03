@@ -1,5 +1,5 @@
 .team { 
-	width: 750px; 
+	width: 940px; 
 	margin-left:  auto;
 	margin-right: auto;
 }
@@ -8,8 +8,8 @@
 	background: url('../../img/page-specific/immunizations.png');
 	background-size: 100%;
 	padding: 10px 0;
-	height:  250px;
-	width:   750px;
+	height: 310px;
+	width: 940px;
 	border-radius: 10px;
 	margin-left:   auto;
 	margin-right:  auto;

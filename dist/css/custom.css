@@ -12,6 +12,8 @@ body {
   height: 40px;
 }
 
+.navbar {margin-bottom: 0;}
+
 .tour {
 	background: url('../img/safari2.png');
 	background-size: 100%;

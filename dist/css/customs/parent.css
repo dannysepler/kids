@@ -1,5 +1,5 @@
 .banner {
-	background: url('../../img/page-specific/new_patients.png');
+	background: url('../../img/page-specific/parents.png');
 	background-size: 100%;
 	padding: 10px 0;
 	height: 310px;
@@ -9,7 +9,7 @@
 	margin-right:  auto;
 }
 
-.pt-background {
+.team {
 	background: none repeat scroll 0 0 #f2f2f2;
 	width: 940px; 
 	margin-left:  auto;
