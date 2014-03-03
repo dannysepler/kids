@@ -12,9 +12,8 @@
 .col-md-9 { background-color: white; }
 
 .col-lg-4 {
-	display: inline-block;
 	max-width: 200px;
-	margin-right: 20px;
+	margin-left: 2%;
 }
 
 .sidebar {
@@ -85,4 +84,36 @@
 
 @media screen and (max-width: 500px) {
 	object{ display: none; }
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+  /*  .nav { margin-left: 10%; } */
+
+  object{
+	 /*float:right;*/
+	 width: 775px;
+	 height: 400px;
+	 margin: auto;
+  }
+}
+
+@media screen and (max-width: 691px) {
+  .col-lg-4 { 
+    display: inline;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 692px) {
+  .col-lg-4 { 
+    display: inline-block;
+    text-align: center;
+  }
 }

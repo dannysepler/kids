@@ -151,21 +151,3 @@ footer a:active {color:#96E000;}  /* selected link */
 	object { display: none; }
   #phone { display: table-cell;}
 }
-
-/* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
-  /* Remove the padding we set earlier */
-  .header {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  
-  /*  .nav { margin-left: 10%; } */
-
-  object{
-	 /*float:right;*/
-	 width: 775px;
-	 height: 400px;
-	 margin: auto;
-  }
-}
