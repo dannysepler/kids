@@ -7,6 +7,7 @@
     <meta name="description" content="kids doc pediatrics, dr. scaccabarrozzi, Luis E. Scaccabarrozzi, M.D., MPH">
     <meta name="author" content="">
     <link rel="shortcut icon" href="../dist/img/stetho.png">
+    <link href='http://fonts.googleapis.com/css?family=Luckiest+Guy' rel='stylesheet' type='text/css'> <!-- LUCKIEST GUY FONT -->
 
     <title>Kids Doc Pediatrics <?php echo $pageTitle ?></title>
 
@@ -32,7 +33,7 @@
     <div class="container">
       <div>
         <a href="../demo.html"><img src="../dist/img/page-specific/kids-logo.png" /></a>
-        <img src="../dist/img/phone.png" id="phone" align=right />
+        <p id="phone">(352) 332-4400</p>
       </div>
       <nav class="navbar navbar-default" role="navigation">
       <div class="container-fluid">

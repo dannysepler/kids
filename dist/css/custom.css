@@ -12,7 +12,7 @@ body {
   text-align: right;
   display: block;  
   font-size: 40px;
-  font-family: 'Luckiest Guy', cursive;
+  font-family: 'Luckiest Guy';
   color: #ffb347;
   text-shadow: -1px 0 #e88435, 0 1px #e88435, 1px 0 #e88435, 0 -1px #e88435;
   -webkit-text-stroke: 1px #7f5923;
@@ -151,7 +151,6 @@ footer a:active {color:#96E000;}  /* selected link */
 @media screen and (max-width: 767px){
 	object { display: none; }
   #phone { display: table-cell;}
-  
 }
 
 /* Responsive: Portrait tablets and up */
