@@ -13,6 +13,7 @@
 
 .col-lg-4 {
 	max-width: 200px;
+	margin-top: 2%;
 }
 
 .col-lg-4 h2 { font-family: "Luckiest Guy"; }
@@ -42,6 +43,8 @@
 .sidebar a p {
 	margin-top: 20px;
 }
+
+
 /* footer */
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
@@ -114,15 +117,17 @@
 
 @media screen and (min-width: 692px) {
   .col-lg-4 { 
-    display: inline-block;
+    display: table-cell;
     text-align: center;
   }
 }
 
 @media screen and (max-width: 1199px) {
-	.not-last-col { margin-right: 4%; }
+	.not-last-col { margin-right: 6%; }
 }
 
 @media screen and (min-width: 1200px) {
-	.not-last-col { margin-right: 12%; }
+	.not-last-col { 
+		margin-right: 12%; 
+	}
 }

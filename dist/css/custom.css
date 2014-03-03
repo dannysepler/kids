@@ -18,7 +18,10 @@ body {
   -webkit-text-stroke: 1px #7f5923;
 }
 
-.container-fluid {background-color:white;}
+.container-fluid {
+  background-color:white;
+  border-radius: 10px 10px 0 0;
+}
 .navbar { margin-bottom: 0; }
 
 .navbar-default{
