@@ -55,6 +55,17 @@ h3 {font-family: Arial,Liberation Sans,DejaVu Sans,sans-serif;}
   height: 100%;
 }
 
+.sidebar img {
+  height:140px;
+}
+
+.sidebar a {
+  font-family: "Luckiest Guy";
+  color: #ffb347;
+  text-shadow: -1px 0 #e88435, 0 1px #e88435, 1px 0 #e88435, 0 -1px #e88435;
+  -webkit-text-stroke: 1px #7f5923;
+}
+
 /* INNER */
 
 .home { width: 100%;}
