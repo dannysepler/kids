@@ -1,10 +1,17 @@
+@font-face {
+  font-family: LuckiestGuy;
+  src: url(../fonts/luckiestguy.tff);
+}
+
 /* Space out content a bit */
 body {
   padding-top: 20px;
-  background: url("../img/body-background.png"), url("../img/footer-background.png");
-  background-position: 0px 648px, bottom left;
-  background-repeat: repeat-x;
+  background: url("../img/body-background.png"), url("../img/footer-background.png"), url("../img/background/nice_snow.png");
+  background-position: 0px 110px, bottom left, 0 0;
+  background-repeat: repeat-x, repeat-x, repeat;
 }
+
+object {}
 
 /* header */
 #phone {
@@ -13,6 +20,16 @@ body {
 }
 
 .navbar {margin-bottom: 0;}
+
+.navbar-default{
+  background: transparent;
+  border: transparent;
+}
+
+.navbar-default{
+  background-color: none;
+  border-color: none;
+}
 
 .tour {
 	background: url('../img/safari2.png');
@@ -30,6 +47,7 @@ body {
 
 .col-md-9 { padding-right: 0px; }
 .col-md-12 { padding-right: 0px; }
+h3 {font-family: Arial,Liberation Sans,DejaVu Sans,sans-serif;}
 
 .sidebar {
   background: #FFE40C;
@@ -42,16 +60,18 @@ body {
 .home { width: 100%;}
 
 .mission {
-  background: #00CC00;
+  background: lightblue;
   color: black;
   margin-left: -15px;
 }
 
 .mission h3 {
-  margin-left:10%;
-  margin-right:10%;
   padding-top: 15px;
   padding-bottom: 15px;
+  font-family: 'Luckiest Guy', cursive;
+  color: #ffb347;
+  text-shadow: -1px 0 #e88435, 0 1px #e88435, 1px 0 #e88435, 0 -1px #e88435;
+  -webkit-text-stroke: 1px #7f5923;
 }
 
 .team{
@@ -150,9 +170,9 @@ footer a:active {color:#96E000;}  /* selected link */
   /*  .nav { margin-left: 10%; } */
 
   object{
-	float:right;
-	width: 775px;
-	height: 400px;
+	 /*float:right;*/
+	 width: 705px;
+	 height: 360px;
   }
 
 }
