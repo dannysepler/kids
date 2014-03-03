@@ -1,0 +1,51 @@
+/* header */
+
+/* banner */
+
+object {}
+
+/* main body */
+.sidebar {
+  background: #FFE40C;
+  padding: none;
+  height: 100%;
+}
+
+.sidebar img {
+  height:140px;
+}
+
+.sidebar a {
+  font-family: "Luckiest Guy";
+  color: #ffb347;
+  text-shadow: -1px 0 #e88435, 0 1px #e88435, 1px 0 #e88435, 0 -1px #e88435;
+  -webkit-text-stroke: 1px #7f5923;
+}
+
+/* footer */
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+  /*  .nav { margin-left: 10%; } */
+
+  object{
+	 /*float:right;*/
+	 width: 705px;
+	 height: 360px;
+  }
+}
+
+@media screen and (max-width: 893px) {
+	.sidebar { /* disappear when too small */
+  		display: none;
+  	}
+}
+
+@media screen and (max-width: 500px) {
+	object{ display: none; }
+}

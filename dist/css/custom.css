@@ -1,8 +1,3 @@
-@font-face {
-  font-family: LuckiestGuy;
-  src: url(../fonts/luckiestguy.tff);
-}
-
 /* Space out content a bit */
 body {
   padding-top: 20px;
@@ -10,8 +5,6 @@ body {
   background-position: 0px 110px, bottom left, 0 0;
   background-repeat: repeat-x, repeat-x, repeat;
 }
-
-object {}
 
 /* header */
 #phone {
@@ -49,23 +42,6 @@ object {}
 .col-md-12 { padding-right: 0px; }
 h3 {font-family: Arial,Liberation Sans,DejaVu Sans,sans-serif;}
 
-.sidebar {
-  background: #FFE40C;
-  padding: none;
-  height: 100%;
-}
-
-.sidebar img {
-  height:140px;
-}
-
-.sidebar a {
-  font-family: "Luckiest Guy";
-  color: #ffb347;
-  text-shadow: -1px 0 #e88435, 0 1px #e88435, 1px 0 #e88435, 0 -1px #e88435;
-  -webkit-text-stroke: 1px #7f5923;
-}
-
 /* INNER */
 
 .home { width: 100%;}
@@ -95,12 +71,6 @@ h3 {font-family: Arial,Liberation Sans,DejaVu Sans,sans-serif;}
   height: 400px;
   width: 600px;
   border-radius: 10px;
-}
-
-.vacs{
-	background: #78a6fc;
-	text-align: center;
-	color: white
 }
 
 .parent {
@@ -185,5 +155,4 @@ footer a:active {color:#96E000;}  /* selected link */
 	 width: 705px;
 	 height: 360px;
   }
-
 }

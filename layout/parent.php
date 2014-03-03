@@ -18,7 +18,7 @@
 
   	<div class="row team">
 		<h1 style="">We recommend:</h1>
-		<p style="">
+		<p>
 			<ul>
 				<li><a href="http://www.aap.org/">American Academy of Pediatrics</a></li>
 				<li><a href="http://www.cdc.gov/">Center for Disease Control</a></li>

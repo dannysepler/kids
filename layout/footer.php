@@ -1,8 +1,11 @@
       <footer class="row">
 	  <div class="col-md-12 text-center">
-		  <a href="insurance.php">Insurance </a>|
-		  <a href="newpatients.php">New Patients </a>|
-		  <a href="contact.php">Contact</a>
+		  <a href="demo.html">Home </a>|
+		  <a href="layout/immunization-home.php">Immunization </a>|
+		  <a href="layout/staff.php">Staff </a>|
+		  <a href="layout/parent-resources.php">Parent Resources </a>|
+		  <a href="layout/newpatients.php">New Patients </a>|<!--5-->
+		  <a href="layout/contact.php">Contact</a><!--6-->
 	  </div>
 		<div class="col-md-6">
 			<address><h4>Kids Doc Pediatrics</h4>6440 W Newberry Rd #105, <br> Gainesville, FL 32605</address>
