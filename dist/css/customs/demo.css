@@ -23,6 +23,13 @@ object {}
   -webkit-text-stroke: 1px #7f5923;
 }
 
+.sidebar a img {
+	margin-bottom: 60px;
+}
+
+.sidebar a p {
+	margin-top: 20px;
+}
 /* footer */
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
