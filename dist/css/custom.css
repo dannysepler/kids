@@ -11,8 +11,6 @@ body {
   background-repeat: repeat-x, repeat-x, repeat;
 }
 
-object {}
-
 /* header */
 #phone {
   display: inline-block;
@@ -35,6 +33,7 @@ object {}
 	background: url('../img/safari2.png');
 	background-size: 100%;
 	padding: 10px 0;
+	text-align: center;
 }
 
 .tour h2{
@@ -170,6 +169,12 @@ footer a:active {color:#96E000;}  /* selected link */
   margin: 30px 0;
 }
 
+@media screen and (max-width: 767px){
+	object {
+		display: none;
+	}
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   /* Remove the padding we set earlier */
@@ -182,8 +187,9 @@ footer a:active {color:#96E000;}  /* selected link */
 
   object{
 	 /*float:right;*/
-	 width: 705px;
-	 height: 360px;
+	 width: 775px;
+	 height: 400px;
+	 margin: auto;
   }
 
 }
