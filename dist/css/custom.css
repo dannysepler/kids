@@ -1,8 +1,8 @@
 /* Space out content a bit */
 body {
   padding-top: 20px;
-  background: url("../img/body-background.png"), url("../img/footer-background.png"), url("../img/background/nice_snow.png");
-  background-position: 0px 110px, bottom left, 0 0;
+  background: url("../img/body-background.png"), url("../img/footer-background2.png"), url("../img/background/nice_snow.png");
+  background-position: 0px 142px, bottom left, 0 0;
   background-repeat: repeat-x, repeat-x, repeat;
 }
 
