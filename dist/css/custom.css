@@ -93,9 +93,10 @@ footer {
   width: 100%;
 }
 
-footer a:link{
-	color: #96E000;
-}
+footer a:link {color:#96E000;}      /* unvisited link */
+footer a:visited {color:#96E000;}  /* visited link */
+footer a:hover {color:#96E000;}  /* mouse over link */
+footer a:active {color:#96E000;}  /* selected link */
 
 .btn {
   color: #96E000;
