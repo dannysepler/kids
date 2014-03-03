@@ -151,6 +151,7 @@ footer a:active {color:#96E000;}  /* selected link */
 @media screen and (max-width: 767px){
 	object { display: none; }
   #phone { display: table-cell;}
+  
 }
 
 /* Responsive: Portrait tablets and up */

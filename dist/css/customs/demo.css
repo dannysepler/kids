@@ -42,6 +42,15 @@ object {}
 
 @media screen and (max-width: 768px) {
 	.container-fluid {background-color: white; }
+	#collapse_photo {display: block;}
+	.tour { 
+		height: 500px; 
+		width: 100%;
+		background: url('../../img/office/collapse_photo.jpg'); 
+	}
+}
+@media screen and (min-width:769px) {
+	.tour { background: url('../../img/safari2.png'); }
 }
 
 @media screen and (max-width: 893px) {
