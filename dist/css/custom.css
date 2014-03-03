@@ -18,21 +18,25 @@ body {
   -webkit-text-stroke: 1px #7f5923;
 }
 
-.container-fluid {
-  background-color:white;
-  border-radius: 10px 10px 0 0;
-}
 .navbar { margin-bottom: 0; }
 
+/*navbar background color*/
 .navbar-default{
-  background: transparent;
+  background: #47b6ff;
   border: transparent;
 }
 
-.navbar-default{
-  background-color: none;
-  border-color: none;
+/*navbar active color*/
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+	color: #fff;
+	background-color: #0e71b2;
 }
+
+/*navbar font color*/
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+}
+
 
 .tour {
 	background: url('../img/safari2.png');
