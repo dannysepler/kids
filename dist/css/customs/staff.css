@@ -59,7 +59,27 @@ img {
 
 .float_left p { margin-left: 200px; }
 
-#dr_s h2{ margin-left: 38px;}
+.tab_dr_s { margin-top: 30px; }
+
+.tab_dr_s tbody tr td h2 {
+	text-align:left;
+	margin-bottom: 70px;
+}
+
+.tab_dr_s tbody tr td p {
+	max-width: 700px;
+}
+
+.tab_n_1 tbody tr td h2 {
+	text-align:left;
+	margin-bottom: 70px;
+}
+
+.tab_n_1 tbody tr td p {
+	max-width: 700px;
+}
+
+#dr_s h2 { margin-left: 38px;}
 #n1 h2, #n3 h2 	{ margin-left: 47px;}
 
 .float_right img {
@@ -76,7 +96,11 @@ img {
 }
 
 #dr_s 	{ margin-top: 20px; }
-#dr_img { max-width:  160px; }
+#dr_img, #n1_img { 
+	margin-left:20px;
+	height: 160px;
+	max-width:  160px; 
+}
 #n2_img { max-width:  140px; }
 #n3_img { max-height: 130px; }
 #n4_img { max-height: 140px; }
