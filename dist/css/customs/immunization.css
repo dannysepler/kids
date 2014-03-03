@@ -19,4 +19,15 @@
 
 ul { text-align: left; }
 
-h1 { font-family: 'Luckiest Guy'; }
+h1 {
+	font-family: 'Luckiest Guy';
+	color: #ffb347;
+	text-shadow: -1px 0 #e88435, 0 1px #e88435, 1px 0 #e88435, 0 -1px #e88435;
+	-webkit-text-stroke: 1px #7f5923;
+}
+h3 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+h1, h3, h5 {
+	padding-left: 150px;
+	padding-right: 150px;
+}

@@ -17,3 +17,10 @@
 	background-color: white;
 	border-radius: 0 0 10px 0px;
 }
+
+h2 {
+	font-family: 'Luckiest Guy';
+	color: #ffb347;
+	text-shadow: -1px 0 #e88435, 0 1px #e88435, 1px 0 #e88435, 0 -1px #e88435;
+	-webkit-text-stroke: 1px #7f5923;
+}

@@ -35,7 +35,7 @@
         <a href="../demo.html"><img src="../dist/img/page-specific/kids-logo.png" /></a>
         <p id="phone">(352) 332-4400</p>
       </div>
-      <nav class="navbar navbar-default" role="navigation">
+      <nav class="navbar navbar-default navbar-static-top" role="navigation">
       <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">

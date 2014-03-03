@@ -17,6 +17,18 @@
 	margin-right:  auto;
 }
 
+h2 {
+	font-family: 'Luckiest Guy';
+	color: #ffb347;
+	text-shadow: -1px 0 #e88435, 0 1px #e88435, 1px 0 #e88435, 0 -1px #e88435;
+	-webkit-text-stroke: 1px #7f5923;
+}
+
+small {
+	text-shadow: none;
+	-webkit-text-stroke: none;
+}
+
 .col-lg-4 {
 	text-align: justify;
 	min-width: 920px;
