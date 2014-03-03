@@ -8,7 +8,9 @@ body {
 
 /* header */
 #phone {
-  display: inline-block;
+  margin-top: -40px;
+  text-align: right;
+  display: block;  
   font-size: 40px;
   font-family: 'Luckiest Guy', cursive;
   color: #ffb347;
@@ -147,9 +149,8 @@ footer a:active {color:#96E000;}  /* selected link */
 }
 
 @media screen and (max-width: 767px){
-	object {
-		display: none;
-	}
+	object { display: none; }
+  #phone { display: table-cell;}
 }
 
 /* Responsive: Portrait tablets and up */
