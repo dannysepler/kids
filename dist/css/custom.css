@@ -1,9 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300);
+
 /* Space out content a bit */
 body {
   padding-top: 20px;
   background: url("../img/body-background.png"), url("../img/footer-background2.png"), url("../img/background/nice_snow.png");
   background-position: 0px 142px, bottom left, 0 0;
   background-repeat: repeat-x, repeat-x, repeat;
+  font-family: 'Raleway', sans-serif;
 }
 
 /* header */
