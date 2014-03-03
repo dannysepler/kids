@@ -159,11 +159,11 @@ h1, h2, h3 { font-family: 'Luckiest Guy'; }
 }
 
 @media screen and (max-width: 991px) {
-  .col-md-12, .col-md-6 p { display: none; }
+  .footer-col, .col-md-6 p { display: none; }
   address { margin-bottom: 0px; }
 }
 
 @media screen and (min-width: 992px) {
-  .col-md-12, .col-md-6 p { display: block; }
+  .footer-col, .col-md-6 p { display: block; }
   address { margin-bottom: 20px; }
 }
