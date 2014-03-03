@@ -30,7 +30,10 @@
   <body>
 
     <div class="container">
-      <div><a href="../demo.html"><img src="../dist/img/page-specific/kids-logo.png" /></a></div>
+      <div>
+        <a href="../demo.html"><img src="../dist/img/page-specific/kids-logo.png" /></a>
+        <img src="../dist/img/phone.png" id="phone" align=right />
+      </div>
       <nav class="navbar navbar-default" role="navigation">
       <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->

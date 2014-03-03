@@ -6,6 +6,12 @@ body {
   background-repeat: repeat-x;
 }
 
+/* header */
+#phone {
+  display: inline-block;
+  height: 40px;
+}
+
 .tour {
 	background: url('../img/safari2.png');
 	background-size: 100%;
